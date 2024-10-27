@@ -3,3 +3,5 @@
 tercera line añadida
 
 generar un conflicto, desde la rama nueva-funcionalidad
+
+repositorio remoto Git hub
